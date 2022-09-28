@@ -1,0 +1,14 @@
+.header {
+    padding: 0.5rem;
+    padding-left: 3rem;
+    background-color: rgb(209, 244, 214);
+}
+
+.yoga-icon {
+    color: white;
+    margin-right: 0.3rem;
+}
+
+.header-text {
+    color: rgb(3, 164, 73);
+}
