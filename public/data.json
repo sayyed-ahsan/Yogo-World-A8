@@ -1,0 +1,74 @@
+[
+    {
+        "id": "633483b6cdc1f82a6cf9a3f6",
+        "picture": "https://i.ibb.co/dP6tVMT/1.png",
+        "decription": "Millions of people participate globally on days dedicated to our common humanity to create a Unified Field of peace and service.",
+        "age": 36,
+        "name": "Hatha yoga",
+        "time": 55
+    },
+    {
+        "id": "633483b6c7e322b786bff379",
+        "picture": "https://i.ibb.co/cD3jvRq/2.png",
+        "decription": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.",
+        "age": 35,
+        "name": "Ashtanga yoga",
+        "time": 53
+    },
+    {
+        "id": "633483b6c09889417ba7357b",
+        "picture": "https://i.ibb.co/R7BWwTh/3.png",
+        "decription": "Millions of people participate globally on days dedicated to our common humanity to create a Unified Field of peace and service.",
+        "age": 33,
+        "name": "Bikram yoga",
+        "time": 59
+    },
+    {
+        "id": "633483b602cd9d3fb3dfa22b",
+        "picture": "https://i.ibb.co/2KkhsSN/4.png",
+        "decription": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.",
+        "age": 30,
+        "name": "Iyengar yoga",
+        "time": 42
+    },
+    {
+        "id": "633483b648dc1016d194b45c",
+        "picture": "https://i.ibb.co/m9J97wR/5.png",
+        "decription": "Millions of people participate globally on days dedicated to our common humanity to create a Unified Field of peace and service.",
+        "age": 31,
+        "name": "Kundalini yoga",
+        "time": 57
+    },
+    {
+        "id": "633483b6bcb80573b0fecdc5",
+        "picture": "https://i.ibb.co/8cWkjSN/6.png",
+        "decription": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.",
+        "age": 39,
+        "name": "Restorative yoga",
+        "time": 45
+    },
+    {
+        "id": "633483b630a1432ff81ed829",
+        "picture": "https://i.ibb.co/2KNszJ5/7.png",
+        "decription": "Millions of people participate globally on days dedicated to our common humanity to create a Unified Field of peace and service.",
+        "age": 25,
+        "name": "Yin yoga",
+        "time": 47
+    },
+    {
+        "id": "633483b602cd9d3fb3dfa22b",
+        "picture": "https://i.ibb.co/hmCZzVd/8.png",
+        "decription": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.",
+        "age": 30,
+        "name": "Iyengar yoga",
+        "time": 42
+    },
+    {
+        "id": "633483b648dc1016d194b45c",
+        "picture": "https://i.ibb.co/JyLkQWR/9.png",
+        "decription": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.",
+        "age": 31,
+        "name": "Kundalini yoga",
+        "time": 57
+    }
+]

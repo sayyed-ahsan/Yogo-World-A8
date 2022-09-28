@@ -5,7 +5,7 @@ import Activities from './components/Activities/Activities';
 
 function App() {
   return (
-    <div>
+    <div className='app-main-div'>
       <Header></Header>
       <Activities></Activities>
     </div>

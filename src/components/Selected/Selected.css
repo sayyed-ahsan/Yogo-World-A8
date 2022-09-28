@@ -1,0 +1,122 @@
+.selectedt-info {
+    padding: 20px;
+    background-color: rgb(241, 246, 255);
+    position: sticky;
+    top: 0px;
+    height: 99vh;
+}
+
+.person-info {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 254, 245);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.info-1 {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.info-2 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.info-3 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+
+
+
+
+
+
+
+
+.minuties {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(190, 247, 209);
+
+}
+
+
+.minute {
+    margin: 5px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.minute:hover {
+    background-color: rgb(4, 196, 148);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+.exercise-time {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 1px;
+    margin-bottom: 8px;
+    border-radius: 10px;
+}
+
+.break-time {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 1px;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+.tost-btn {
+    padding: 15px 25px;
+    margin-top: 30px;
+    border: none;
+    width: 100%;
+    display: block;
+    background-color: rgb(0, 71, 15);
+    border-radius: 15px;
+    font-weight: 900;
+    font-size: large;
+    color: white;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 665px) {
+    .selectedt-info {
+        height: auto;
+    }
+
+    .minute {
+        padding: 7px;
+    }
+
+}
