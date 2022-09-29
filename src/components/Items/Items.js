@@ -2,6 +2,7 @@ import React from 'react';
 import './Items.css'
 
 const Items = (props) => {
+
     return (
         <div className='item'>
             <img className='yoga-img' src={props.item.picture} alt="" />
@@ -9,7 +10,7 @@ const Items = (props) => {
             <p>{props.item.decription}</p>
             <p>For Age: {props.item.age}</p>
             <p>Time required: {props.item.time}</p>
-            <button className='btn-add'>Add to List</button>
+            <button onClick={() => props.handleAddToCard(props.item.time)} className='btn-add'>Add to List</button>
         </div>
     );
 };
