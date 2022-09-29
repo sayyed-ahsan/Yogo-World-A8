@@ -57,9 +57,9 @@ const Selected = (props) => {
                 <p onClick={() => { brackTime(7) }} className='minute'>7m</p>
                 <p onClick={() => { brackTime(9) }} className='minute'>9m</p>
             </div>
-            <h3>Exercise Detail</h3>
+            <h3>Yoga Detail</h3>
             <div className='exercise-time'>
-                <p>Exercise Time</p>
+                <p>Yoga Time</p>
                 <p>{props.yogaTime}m</p>
             </div>
             <div className='break-time'>

@@ -9,7 +9,7 @@
 .person-info {
     display: flex;
     justify-content: space-around;
-    background-color: rgb(243, 254, 245);
+    background-color: rgb(190, 247, 209);
     padding: 10px;
     border-radius: 10px;
 }
@@ -77,10 +77,11 @@
     padding: 15px;
     border-radius: 5px;
     cursor: pointer;
+    font-weight: 500;
 }
 
 .minute:hover {
-    background-color: rgb(4, 196, 148);
+    background-color: rgb(0, 71, 15);
     color: white;
 }
 
