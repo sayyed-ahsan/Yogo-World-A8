@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './Selected.css'
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import profileImg from '../img/What-To-Wear-For-Your-Professional-Profile-Picture-or-Headshot.jpg';
 
 const Selected = (props) => {
 
@@ -31,6 +32,7 @@ const Selected = (props) => {
 
     return (
         <div className='selectedt-info'>
+            <img className='profile-pic' src={profileImg} alt="" />
             <h1>Jahid Hossin</h1>
             <div className='person-info'>
                 <div className='info-1'>
