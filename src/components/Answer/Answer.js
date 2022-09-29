@@ -2,7 +2,8 @@ import React from 'react';
 import './Answer.css'
 const Answer = () => {
     return (
-        <div>
+        <div className='all-ans'>
+            <h2 className='answer'>Aswers</h2>
             <h4 className='qustion'>How does react Woarks?</h4>
             <p className='answer'>React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React. js is virtual DOM.</p>
             <h4 className='qustion'>What is the difference between props and state in React component?</h4>
