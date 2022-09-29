@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Answer from '../Answer/Answer';
 import Items from '../Items/Items';
 import Selected from '../Selected/Selected';
 import './Activities.css'
@@ -23,14 +24,18 @@ const Activities = () => {
     return (
         <div >
             <div className='activities'>
-                <div className='yoga-item-container'>
-                    {
-                        items.map(item => <Items
+                <div>
+                    <div className='yoga-item-container'>
+                        {
+                            items.map(item => <Items
 
-                            item={item}
-                            handleAddToCard={handleAddToCard}
-                        ></Items>)
-                    }
+                                item={item}
+                                handleAddToCard={handleAddToCard}
+                            ></Items>)
+                        }
+                    </div>
+                    <Answer></Answer>
+
                 </div>
                 {/*  */}
                 <div className='selected-yoga-container'>
