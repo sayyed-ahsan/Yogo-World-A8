@@ -33,7 +33,7 @@ const Selected = (props) => {
     return (
         <div className='selectedt-info'>
             <img className='profile-pic' src={profileImg} alt="" />
-            <h1>Jahid Hossin</h1>
+            <h1 className='profile-name'>Sabrina Khatun</h1>
             <div className='person-info'>
                 <div className='info-1'>
                     <h4 className='info-2'>75<span>kg</span></h4>
