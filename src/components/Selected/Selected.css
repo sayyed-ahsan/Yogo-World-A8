@@ -55,12 +55,6 @@
 
 
 
-
-
-
-
-
-
 .minuties {
     display: flex;
     justify-content: space-around;
@@ -85,14 +79,6 @@
     color: white;
 }
 
-
-
-
-
-
-
-
-
 .exercise-time {
     display: flex;
     justify-content: space-around;
@@ -112,23 +98,24 @@
 }
 
 
-
-
-
-
-
 .tost-btn {
     padding: 15px 25px;
     margin-top: 30px;
     border: none;
     width: 100%;
     display: block;
-    background-color: rgb(0, 71, 15);
+    background-color: white;
     border-radius: 15px;
     font-weight: 900;
     font-size: large;
-    color: white;
+    color: rgb(0, 71, 15);
     cursor: pointer;
+}
+
+.tost-btn:hover {
+    background-color: rgb(0, 71, 15);
+    color: white;
+
 }
 
 @media only screen and (max-width: 665px) {
